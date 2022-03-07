@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">CovidYoungIn</string>
+
+    <string name="toast_error">에러메시지 확인이 필요합니다.</string>
+    
+    <string name="covid_announce_data">공고일자 : %s</string>
+    <string name="covid_confirmed_count">확진자 : %d명</string>
+    <string name="covid_isolated_patient_count">격리환자 : %d명</string>
+    <string name="covid_cancel_isolated_patient_count">격리해제 환자 : %d명</string>
+    <string name="covid_dead_count">사망자 : %d명</string>
 </resources>
